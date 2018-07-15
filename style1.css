@@ -37,7 +37,7 @@ color :white;
 }
 
 .email{
-padding-left:100px;
+padding-left:50px;
 padding-top:70px;
 float:left;
 
@@ -47,7 +47,7 @@ border: 1px solid black;
 }
 
 .password{
-padding-left:110px;
+padding-left:75px;
 padding-top:70px;
 padding-right:10px;
 float:left;
