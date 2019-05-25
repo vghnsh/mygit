@@ -62,9 +62,14 @@ body
 	display: flex;
 	padding-top: 50px;
 	justify-content: space-between;
+	flex-wrap: wrap;
 
 }
 .card-body
 {
 	background-color: rgb(67, 76, 86)
+}
+.card-text
+{
+	color: white;
 }
