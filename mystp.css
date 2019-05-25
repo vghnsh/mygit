@@ -1,0 +1,70 @@
+body,
+html {
+  width: 100%;
+  height: 100%; 
+}
+
+header.startup 
+{ 	background-image: url("star.jpg");
+ 	height: 120%;
+	background-size: cover;
+	background-position: center; 
+}
+body 
+{
+	font-family:'Carter One', cursive; 
+} 
+.container-fluid 
+{ 
+	color: rgba(255,255,255,0.4);
+	display: flex;
+	justify-content: center;
+	padding-top: 100px;
+	padding-left: 50px;
+	
+}
+.quote
+{
+	color: white;
+}
+.text-uppercase
+{
+	padding-bottom: 50px;
+}
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+  font-family:'Carter One', cursive; 
+}
+.btn-xl {
+  
+  padding: 1rem 2rem; 
+}
+
+
+.btn-dark:hover {
+  
+  border-width: 5px;
+  cursor: pointer;
+}
+
+.navbar
+{
+	color: rgba(255,255,255,0.4);
+}
+.form-control
+{
+	background-color: darkgrey;
+}
+.container
+{
+	display: flex;
+	padding-top: 50px;
+	justify-content: space-between;
+
+}
+.card-body
+{
+	background-color: rgb(67, 76, 86)
+}
